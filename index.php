@@ -8,11 +8,11 @@ require_once('header.php');
   <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="w-100" src="img/CONSTRUCCIONES/2.1.jpg" alt="Image" />
-        <div class="carousel-caption">
+        <img class="w-100" src="img/LGHOME.jpg" alt="Image" />
+        <div><!--class="carousel-caption"-->
           <div class="container">
             <div class="row justify-content-center">
-              <div class="col-lg-10 text-start">
+              <div class="col-lg-10 text-start" style="display:none">
                 <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
                   25 Years of Working Experience
                 </p>
