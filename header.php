@@ -1,6 +1,6 @@
   <head>
       <meta charset="utf-8" />
-      <title>General contractor & Handyman services</title>
+      <title>LG Home Improvement LLC</title>
       <meta content="width=device-width, initial-scale=1.0" name="viewport" />
       <meta content="" name="keywords" />
       <meta content="" name="description" />
@@ -42,10 +42,10 @@
               <div class="col-lg-6 ps-5 text-start">
                   <div class="h-100 d-inline-flex align-items-center text-white">
                       <span>Follow Us:</span>
-                      <a class="btn btn-link text-light" href=""><i class="fab fa-facebook-f"></i></a>
-                      <a class="btn btn-link text-light" href=""><i class="fab fa-twitter"></i></a>
-                      <a class="btn btn-link text-light" href=""><i class="fab fa-linkedin-in"></i></a>
-                      <a class="btn btn-link text-light" href=""><i class="fab fa-instagram"></i></a>
+                      <a class="btn btn-link text-light" href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
+                      <a class="btn btn-link text-light" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
+                      <a class="btn btn-link text-light" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
+                      <a class="btn btn-link text-light" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
                   </div>
               </div>
               <div class="col-lg-6 text-end">
@@ -85,7 +85,10 @@
                   </div>
                   <a href="contact.php" class="nav-item nav-link">Contact</a>
               </div>
-              <a href="https://wa.me/+17035826480" class="btn btn-primary px-3 d-none d-lg-block"><i class="bi bi-whatsapp"></i></a>
+              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
+              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
+              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
+              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
           </div>
       </nav>
       <!-- Navbar End -->
