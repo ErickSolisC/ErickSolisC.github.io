@@ -7,6 +7,7 @@
 
       <!-- Favicon -->
       <link href="img/favicon.ico" rel="icon" />
+      <link href="css/styleFloor.css" rel="stylesheet" />
 
       <!-- Google Web Fonts -->
       <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -50,7 +51,7 @@
               <div class="col-lg-6 text-end">
                   <div class="h-100 topbar-right d-inline-flex align-items-center text-white py-2 px-5">
                       <span class="fs-5 fw-bold me-2"><i class="fa fa-phone-alt me-2"></i>Call Us:</span>
-                      <span class="fs-5 fw-bold">+012 345 6789</span>
+                      <span class="fs-5 fw-bold">703-582-6480</span>
                   </div>
               </div>
           </div>
@@ -60,7 +61,9 @@
       <!-- Navbar Start -->
       <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5">
           <a href="index.php" class="navbar-brand ps-5 me-0">
-              <h1 class="text-white m-0">Industro</h1>
+              <!-- LG Home Improvement LLC
+             -->
+              <h1 class="text-white m-0"><img width="170" height="80" src="img/logo1.png" alt="logo" /></h1>
           </a>
           <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
               <span class="navbar-toggler-icon"></span>
@@ -82,7 +85,7 @@
                   </div>
                   <a href="contact.php" class="nav-item nav-link">Contact</a>
               </div>
-              <a href="https://wa.me/+012 345 6789" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
+              <a href="https://wa.me/+17035826480" class="btn btn-primary px-3 d-none d-lg-block"><i class="bi bi-whatsapp"></i></a>
           </div>
       </nav>
       <!-- Navbar End -->

@@ -109,7 +109,7 @@ require_once('header.php');
               </div>
               <div class="ms-3">
                 <p class="mb-2">Email us</p>
-                <h5 class="mb-0">info@teamvpconstruction.com</h5>
+                <h5 class="mb-0">LGHome2008@outlook.com</h5>
               </div>
             </div>
           </div>
