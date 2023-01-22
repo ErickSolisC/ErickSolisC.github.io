@@ -14,7 +14,7 @@
                     <i class="fa fa-envelope me-3"></i>LGHome2008@outlook.com
                 </p>
                 <div class="d-flex pt-3">
-                    <a class="btn btn-square btn-primary rounded-circle me-2" href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
+                    <a class="btn btn-square btn-primary rounded-circle me-2" href="https://api.whatsapp.com/send?phone=+17035826480 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
                     <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
                     <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
@@ -52,7 +52,7 @@
 </div>
 <!-- Footer End -->
 
-<a href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información." class="float" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=+17035826480 &text=Necesito mas información." class="float" target="_blank">
 
     <i class="bi bi-whatsapp"></i>
 
