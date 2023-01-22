@@ -42,7 +42,7 @@
               <div class="col-lg-6 ps-5 text-start">
                   <div class="h-100 d-inline-flex align-items-center text-white">
                       <span>Follow Us:</span>
-                      <a class="btn btn-link text-light" href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
+                      <a class="btn btn-link text-light" href="https://api.whatsapp.com/send?phone=+17035826480 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
                       <a class="btn btn-link text-light" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
                       <a class="btn btn-link text-light" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
                       <a class="btn btn-link text-light" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
@@ -85,7 +85,7 @@
                   </div>
                   <a href="contact.php" class="nav-item nav-link">Contact</a>
               </div>
-              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
+              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://api.whatsapp.com/send?phone=+17035826480 &text=Necesito mas información."><i class="fab fa-whatsapp"></i></a>
               <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
               <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
