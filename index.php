@@ -8,7 +8,7 @@ require_once('header.php');
   <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="w-100" src="img/carousel-1.jpg" alt="Image" />
+        <img class="w-100" src="img/CONSTRUCCIONES/2.1.jpg" alt="Image" />
         <div class="carousel-caption">
           <div class="container">
             <div class="row justify-content-center">
@@ -63,10 +63,10 @@ require_once('header.php');
       <div class="col-lg-6">
         <div class="row gx-3 h-100">
           <div class="col-6 align-self-start wow fadeInUp" data-wow-delay="0.1s">
-            <img class="img-fluid" src="img/about-1.jpg" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/27.jpg" />
           </div>
           <div class="col-6 align-self-end wow fadeInDown" data-wow-delay="0.1s">
-            <img class="img-fluid" src="img/about-2.jpg" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/13.jpg" />
           </div>
         </div>
       </div>
@@ -219,7 +219,7 @@ require_once('header.php');
     <div class="row g-5 align-items-center">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <div class="position-relative me-lg-4">
-          <img class="img-fluid w-100" src="img/feature.jpg" alt="" />
+          <img class="img-fluid w-100" src="img/CONSTRUCCIONES/29.jpg" alt="" />
           <span class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block" style="width: 120px; height: 120px"></span>
           <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
             <span></span>

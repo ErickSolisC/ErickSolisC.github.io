@@ -26,10 +26,10 @@ require_once('header.php');
       <div class="col-lg-6">
         <div class="row gx-3 h-100">
           <div class="col-6 align-self-start wow fadeInUp" data-wow-delay="0.1s">
-            <img class="img-fluid" src="img/about-1.jpg" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/27.jpg" />
           </div>
           <div class="col-6 align-self-end wow fadeInDown" data-wow-delay="0.1s">
-            <img class="img-fluid" src="img/about-2.jpg" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/13.jpg" />
           </div>
         </div>
       </div>
@@ -134,42 +134,42 @@ require_once('header.php');
 <!-- About End -->
 
 <!-- Facts Start -->
-<div class="container-fluid facts my-5 p-5">
+<div class="">
   <div class="row g-5">
     <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
-      <div class="text-center border p-5">
-        <i class="fa fa-certificate fa-3x text-white mb-3"></i>
+      <div class="text-center  p-5">
+        <i class="fa fa-certificate fa-3x text-primary mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
           25
         </h1>
-        <span class="fs-5 fw-semi-bold text-white">Years Experience</span>
+        <span class="fs-5 fw-semi-bold text-primary">Years Experience</span>
       </div>
     </div>
     <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
-      <div class="text-center border p-5">
-        <i class="fa fa-users-cog fa-3x text-white mb-3"></i>
+      <div class="text-center p-5">
+        <i class="fa fa-users-cog fa-3x text-primary mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
           55
         </h1>
-        <span class="fs-5 fw-semi-bold text-white">Team Members</span>
+        <span class="fs-5 fw-semi-bold text-primary">Team Members</span>
       </div>
     </div>
     <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
-      <div class="text-center border p-5">
-        <i class="fa fa-users fa-3x text-white mb-3"></i>
+      <div class="text-center  p-5">
+        <i class="fa fa-users fa-3x text-primary mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
           125
         </h1>
-        <span class="fs-5 fw-semi-bold text-white">Happy Clients</span>
+        <span class="fs-5 fw-semi-bold text-primary">Happy Clients</span>
       </div>
     </div>
     <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
-      <div class="text-center border p-5">
-        <i class="fa fa-check-double fa-3x text-white mb-3"></i>
+      <div class="text-center  p-5">
+        <i class="fa fa-check-double fa-3x text-primary mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
           210
         </h1>
-        <span class="fs-5 fw-semi-bold text-white">Projects Done</span>
+        <span class="fs-5 fw-semi-bold text-primary">Projects Done</span>
       </div>
     </div>
   </div>
