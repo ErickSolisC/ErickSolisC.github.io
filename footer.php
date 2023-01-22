@@ -5,13 +5,13 @@
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Our Office</h5>
                 <p class="mb-2">
-                    <i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA
+                    <i class="fa fa-map-marker-alt me-3"></i>15003 Alabama Ave. Woodbridge VA 22191
                 </p>
                 <p class="mb-2">
-                    <i class="fa fa-phone-alt me-3"></i>+012 345 67890
+                    <i class="fa fa-phone-alt me-3"></i>703-582-6480
                 </p>
                 <p class="mb-2">
-                    <i class="fa fa-envelope me-3"></i>info@teamvpconstruction.com
+                    <i class="fa fa-envelope me-3"></i>LGHome2008@outlook.com
                 </p>
                 <div class="d-flex pt-3">
                     <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
@@ -52,11 +52,15 @@
 </div>
 <!-- Footer End -->
 
+<a href="https://api.whatsapp.com/send?phone=+15713974607 &text=Necesito mas información." class="float" target="_blank">
 
+    <i class="bi bi-whatsapp"></i>
+
+</a>
 <!-- Back to Top -->
 <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
 <!-- Get Message Whatsapp -->
-<a href="https://wa.me/+012 345 6789"><i class="bi bi-arrow-up">def</i></a>
+<!-- <a href="https://wa.me/+17035826480"><i class="bi bi-arrow-up"></i></a> -->
 <!-- JavaScript Libraries -->
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>

@@ -29,7 +29,7 @@ require_once('header.php');
     <a class="project-item" href="">
       <img class="img-fluid" src="img/CONSTRUCCIONES/1.jpg" alt="" />
       <div class="project-title">
-        <h5 class="text-primary mb-0">Completed Recently</h5>
+        <h5 class="text-primary mb-0">Completed Recently.</h5>
       </div>
     </a>
     <a class="project-item" href="">
@@ -191,7 +191,10 @@ require_once('header.php');
   </div>
 </div>
 <!-- Project End -->
-
+<script>
+  img = document.getElementById('myImg')
+  img.style.transform = 'scale(1.9)'
+</script>
 <?php
 require_once('footer.php');
 ?>

@@ -31,8 +31,8 @@ require_once('header.php');
                         <i class="fa fa-phone-alt fa-2x text-primary"></i>
                     </div>
                     <h4 class="mb-3">Phone Number</h4>
-                    <p class="mb-2">+012 345 67890</p>
-                    <p class="mb-4">+012 345 67890</p>
+                    <p class="mb-2">703-582-6480</p>
+                    <p class="mb-4"></p>
                     <a class="btn btn-primary px-4" href="tel:+0123456789">Call Now <i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
@@ -42,9 +42,9 @@ require_once('header.php');
                         <i class="fa fa-envelope-open fa-2x text-primary"></i>
                     </div>
                     <h4 class="mb-3">Email Address</h4>
-                    <p class="mb-2">info@example.com</p>
-                    <p class="mb-4">support@example.com</p>
-                    <a class="btn btn-primary px-4" href="mailto:info@example.com">Email Now <i class="fa fa-arrow-right ms-2"></i></a>
+                    <p class="mb-2">LGHome2008@outlook.com</p>
+                    <p class="mb-4"></p>
+                    <a class="btn btn-primary px-4" href="mailto:LGHome2008@outlook.com">Email Now <i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -53,24 +53,24 @@ require_once('header.php');
                         <i class="fa fa-map-marker-alt fa-2x text-primary"></i>
                     </div>
                     <h4 class="mb-3">Office Address</h4>
-                    <p class="mb-2">+012 345 67890</p>
-                    <p class="mb-4">+012 345 67890</p>
+                    <p class="mb-2">15003 Alabama Ave. Woodbridge VA 22191</p>
+                    <!-- <p class="mb-4">15003 Alabama Ave. Woodbridge VA 22191</p> -->
                     <a class="btn btn-primary px-4" href="https://goo.gl/maps/FsznshxgnULBGgkN9" target="blank">Direction <i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-12 wow fadeInUp" data-wow-delay="0.1s">
-                <iframe class="w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd" frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.9247015418314!2d-77.26387964956035!3d38.627613270307165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6558b621753d9%3A0xeb483233d6d87225!2s15003%20Alabama%20Ave%2C%20Woodbridge%2C%20VA%2022191%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sgt!4v1674233291150!5m2!1ses-419!2sgt" width="1118" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                 <p class="fw-medium text-uppercase text-primary mb-2">Contact Us</p>
-                <h1 class="display-5 mb-4">If You Have Any Queries, Please Feel Free To Contact Us</h1>
-                <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form
-                    with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're
-                    done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                <h1 class="display-5 mb-4">
+                    Contact us at no cost, at our number or email</h1>
+                <p class="mb-4">
+                    <!-- description -->
                 <div class="row g-4">
                     <div class="col-6">
                         <div class="d-flex">
@@ -79,7 +79,7 @@ require_once('header.php');
                             </div>
                             <div class="ms-3">
                                 <h6>Call Us</h6>
-                                <span>+012 345 67890</span>
+                                <span>703-582-6480</span>
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@ require_once('header.php');
                             </div>
                             <div class="ms-3">
                                 <h6>Mail Us</h6>
-                                <span>info@example.com</span>
+                                <span>LGHome2008@outlook.com</span>
                             </div>
                         </div>
                     </div>
