@@ -72,7 +72,7 @@ require_once('header.php');
                 <i class="fa fa-check text-white"></i>
               </div>
               <div class="ms-4">
-                <h4>24/7 Customer Support</h4>
+                <h4>Monday to Saturday</h4>
                 <span>Works under customer demand.</span>
               </div>
             </div>

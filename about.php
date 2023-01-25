@@ -41,7 +41,7 @@ require_once('header.php');
         </p>
         <div class="d-flex align-items-center mb-4">
           <div class="flex-shrink-0 bg-primary p-4">
-            <h1 class="display-2">25</h1>
+            <h1 class="display-2">12</h1>
             <h5 class="text-white">Years of</h5>
             <h5 class="text-white">Experience</h5>
           </div>
@@ -134,18 +134,18 @@ require_once('header.php');
 <!-- About End -->
 
 <!-- Facts Start -->
-<div class="">
+<div class="" align="center">
   <div class="row g-5">
-    <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
-      <div class="text-center  p-5">
-        <i class="fa fa-certificate fa-3x text-primary mb-3"></i>
+    <!-- <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
+      <div class="text-center">
+        <i class="fa fa-certificate fa-3x text-primary mb-3" align=""></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
-          25
+          12
         </h1>
         <span class="fs-5 fw-semi-bold text-primary">Years Experience</span>
       </div>
-    </div>
-    <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
+    </div> -->
+    <!-- <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
       <div class="text-center p-5">
         <i class="fa fa-users-cog fa-3x text-primary mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
@@ -171,7 +171,7 @@ require_once('header.php');
         </h1>
         <span class="fs-5 fw-semi-bold text-primary">Projects Done</span>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 <!-- Facts End -->
