@@ -8,16 +8,21 @@ require_once('header.php');
   <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="w-100" src="img/PORTADAS/MESA2.jpg" alt="Image" />
+        <img class="w-100" src="img/PORTADAS/PORTADAFINAL.jpg" alt="Image" />
         <div><!--class="carousel-caption"-->
           <div class="container">
-            <div class="row justify-content-center">
-              <div class="col-lg-10 text-start" style="display:none">
+            <div class="row justify-content-center" style="display:none">
+              <div class="col-lg-10 text-start">
                 <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
-                  25 Years of Working Experience
+
                 </p>
-                <h1 class="display-1 text-white mb-5 animated slideInRight">
-                  LG Home Improvement LLC
+                <h1 style="color:white;" align="justify" class="">
+                  -Doors adn windows trim & Paint<br>
+                  -Rake board and shingles repair<br>
+                  -Mailbox replacement -Framing<br>
+                  -Porch Columns Replace - Siding repair<br>
+                  -Deck Repair or rebuild staind and paint
+
                 </h1>
                 <a href="" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
               </div>
