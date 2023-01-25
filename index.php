@@ -37,7 +37,7 @@ require_once('header.php');
             <div class="row justify-content-center">
               <div class="col-lg-10 text-start">
                 <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
-                  25 Years of Working Experience
+                  12 Years of Working Experience
                 </p>
                 <h1 class="display-1 text-white mb-5 animated slideInRight">
                   The Best Reliable Industry Solution
@@ -83,7 +83,7 @@ require_once('header.php');
         </p>
         <div class="d-flex align-items-center mb-4">
           <div class="flex-shrink-0 bg-primary p-4">
-            <h1 class="display-2">25</h1>
+            <h1 class="display-2">12</h1>
             <h5 class="text-white">Years of</h5>
             <h5 class="text-white">Experience</h5>
           </div>
@@ -175,28 +175,28 @@ require_once('header.php');
 </div>
 <!-- About End -->
 
-<!-- Facts Start -->
-<div class="container-fluid facts my-5 p-5">
+<!-- Facts Start container-fluid facts my-5 p-5 -->
+<div class="" align="center">
   <div class="row g-5">
-    <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
-      <div class="text-center border p-5">
-        <i class="fa fa-certificate fa-3x text-white mb-3"></i>
+    <div data-wow-delay="0.1s">
+      <div class="">
+        <i class=""></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
-          25
+          12
         </h1>
-        <span class="fs-5 fw-semi-bold text-white">Years Experience</span>
+        <span class="fs-5 fw-semi-bold text-primary">Years Experience</span>
       </div>
     </div>
-    <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
+    <!-- <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
       <div class="text-center border p-5">
-        <i class="fa fa-users-cog fa-3x text-white mb-3"></i>
+        <i class="fa fa-users-cog fa-3x text-white mb-3">Email</i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
           55
         </h1>
-        <span class="fs-5 fw-semi-bold text-white">Team Members</span>
+        <span class="fs-5 fw-semi-bold text-white">LGHome2008@outlook.com</span>
       </div>
-    </div>
-    <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
+    </div> -->
+    <!--<div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
       <div class="text-center border p-5">
         <i class="fa fa-users fa-3x text-white mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
@@ -204,8 +204,8 @@ require_once('header.php');
         </h1>
         <span class="fs-5 fw-semi-bold text-white">Happy Clients</span>
       </div>
-    </div>
-    <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
+    </div> -->
+    <!-- <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
       <div class="text-center border p-5">
         <i class="fa fa-check-double fa-3x text-white mb-3"></i>
         <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">
@@ -213,7 +213,7 @@ require_once('header.php');
         </h1>
         <span class="fs-5 fw-semi-bold text-white">Projects Done</span>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 <!-- Facts End -->
@@ -271,7 +271,8 @@ require_once('header.php');
                 <i class="fa fa-check text-white"></i>
               </div>
               <div class="ms-4">
-                <h4>24/7 Customer Support</h4>
+                <h4>
+                  Monday to Saturday</h4>
                 <span>Works under customer demand.</span>
               </div>
             </div>
@@ -833,7 +834,7 @@ require_once('header.php');
 <!-- Project End -->
 
 <!-- Testimonial Start -->
-<div class="container-xxl py-5">
+<!-- <div class="container-xxl py-5">
   <div class="container">
     <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
       <p class="fw-medium text-uppercase text-primary mb-2">Testimonial</p>
@@ -896,7 +897,7 @@ require_once('header.php');
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- Testimonial End -->
 <?php
 require_once('footer.php');
