@@ -79,7 +79,7 @@
                           <a href="project.php" class="dropdown-item">Projects</a>
                           <a href="feature.php" class="dropdown-item">Features</a>
                           <!-- <a href="team.html" class="dropdown-item">Our Team</a> -->
-                          <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                          <a href="testimonial.php" class="dropdown-item" style="display:none">Testimonial</a>
                           <!-- <a href="404.html" class="dropdown-item">404 Page</a> -->
                       </div>
                   </div>
