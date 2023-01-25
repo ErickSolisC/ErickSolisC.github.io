@@ -63,7 +63,7 @@
           <a href="index.php" class="navbar-brand ps-5 me-0">
               <!-- LG Home Improvement LLC
              -->
-              <h1 class="text-white m-0"><img width="170" height="80" src="img/logo1.png" alt="logo" /></h1>
+              <h1 class="text-white m-0"><img width="120" height="80" src="img/PORTADAS/LOGOFINAL.png" alt="logo" /></h1>
           </a>
           <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
               <span class="navbar-toggler-icon"></span>

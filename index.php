@@ -8,7 +8,7 @@ require_once('header.php');
   <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="w-100" src="img/LGHOME.jpg" alt="Image" />
+        <img class="w-100" src="img/PORTADAS/MESA2.jpg" alt="Image" />
         <div><!--class="carousel-caption"-->
           <div class="container">
             <div class="row justify-content-center">
@@ -341,9 +341,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-2.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-2.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -385,9 +385,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/34.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/34.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -429,9 +429,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.13s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -451,9 +451,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -473,9 +473,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.17s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -539,9 +539,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/35.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/35.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -561,9 +561,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/36.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/36.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -605,9 +605,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
