@@ -46,7 +46,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
@@ -68,7 +68,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
@@ -90,7 +90,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
@@ -112,7 +112,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.10s">
@@ -134,7 +134,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.13s">
@@ -156,7 +156,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
@@ -178,7 +178,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.17s">
@@ -200,7 +200,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -222,7 +222,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -244,7 +244,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -266,7 +266,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -288,7 +288,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -310,7 +310,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -332,7 +332,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
@@ -354,7 +354,7 @@ require_once('header.php');
               </p>
             </div> -->
           </div>
-          <a class="btn btn-light" href="">Read More</a>
+          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
     </div>
