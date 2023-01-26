@@ -46,6 +46,7 @@
                       <a class="btn btn-link text-light" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
                       <a class="btn btn-link text-light" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
                       <a class="btn btn-link text-light" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
+                      <a class="btn btn-link text-light" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-twitter"></i></a>
                   </div>
               </div>
               <div class="col-lg-6 text-end">
@@ -89,6 +90,7 @@
               <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.facebook.com/profile.php?id=100089635332025"><i class="fab fa-facebook-f"></i></a>
               <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.youtube.com/channel/UCfYLeW4IxtsVtCoe5nIhkoQ"><i class="fab fa-youtube"></i></a>
               <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-instagram"></i></a>
+              <a class="btn btn-square btn-primary rounded-circle me-2" href="https://www.instagram.com/lg_improvement/"><i class="fab fa-twitter"></i></a>
           </div>
       </nav>
       <!-- Navbar End -->

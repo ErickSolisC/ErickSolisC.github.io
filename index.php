@@ -31,10 +31,11 @@ require_once('header.php');
         </div>
       </div>
       <div class="carousel-item">
-        <img class="w-100" src="img/carousel-2.jpg" alt="Image" />
-        <div class="carousel-caption">
+        <img class="w-100" src="img/PORTADAS/PORTADAF.jpg" alt="Image" />
+        <!-- class="carousel-caption" -->
+        <div>
           <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center" style="display:none;">
               <div class="col-lg-10 text-start">
                 <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight">
                   12 Years of Working Experience
