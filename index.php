@@ -335,12 +335,12 @@ require_once('header.php');
               <h3 class="mb-0">Re-finished basament</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -357,12 +357,12 @@ require_once('header.php');
               <h3 class="mb-0">Framing work</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -379,12 +379,12 @@ require_once('header.php');
               <h3 class="mb-0">Drywall install</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -401,12 +401,12 @@ require_once('header.php');
               <h3 class="mb-0">Shingles install</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -423,12 +423,12 @@ require_once('header.php');
               <h3 class="mb-0">Hardwood floor</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
-              </p>
-            </div>
+              </p> -->
+            <!-- </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -445,12 +445,12 @@ require_once('header.php');
               <h3 class="mb-0">Porch columns replace</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -467,12 +467,12 @@ require_once('header.php');
               <h3 class="mb-0">Re-building deck & new deck</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -489,12 +489,12 @@ require_once('header.php');
               <h3 class="mb-0">Install siding or replace</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -511,12 +511,12 @@ require_once('header.php');
               <h3 class="mb-0">Paint interior & exterior</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -533,12 +533,12 @@ require_once('header.php');
               <h3 class="mb-0">Windows replace</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -555,12 +555,12 @@ require_once('header.php');
               <h3 class="mb-0">Plumbing</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -577,12 +577,12 @@ require_once('header.php');
               <h3 class="mb-0">Electric work</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -599,12 +599,12 @@ require_once('header.php');
               <h3 class="mb-0">Patio repair & build new</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -621,12 +621,12 @@ require_once('header.php');
               <h3 class="mb-0">Replace screen porch</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
@@ -643,12 +643,12 @@ require_once('header.php');
               <h3 class="mb-0">kitchen & bath remodeling</h3>
               <hr class="w-25" />
             </div>
-            <div class="service-text">
+            <!-- <div class="service-text">
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
               </p>
-            </div>
+            </div> -->
           </div>
           <a class="btn btn-light" href="">Read More</a>
         </div>
