@@ -333,7 +333,8 @@ require_once('header.php');
           <div class="service-detail">
             <div class="service-title">
               <hr class="w-25" />
-              <h3 class="mb-0">Re-finished basament</h3>
+              <h3 class="mb-0">
+                Additions</h3>
               <hr class="w-25" />
             </div>
             <!-- <div class="service-text">
@@ -370,11 +371,12 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/2.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/2.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
           </div>
           <div class="service-detail">
+
             <div class="service-title">
               <hr class="w-25" />
               <h3 class="mb-0">Drywall install</h3>
@@ -458,9 +460,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/37.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/37.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
