@@ -315,7 +315,7 @@ require_once('header.php');
           <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
-      <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
+      <!-- <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
           <img class="img-fluid" src="img/CONSTRUCCIONES/38.jpg" alt="" />
           <div class="service-img">
@@ -327,16 +327,9 @@ require_once('header.php');
               <h3 class="mb-0">Replace screen porch</h3>
               <hr class="w-25" />
             </div>
-            <!-- <div class="service-text">
-              <p class="text-white mb-0">
-                Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                lorem sed diam stet diam sed stet.
-              </p>
-            </div> -->
           </div>
-          <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
-      </div>
+      </div> -->
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
           <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
