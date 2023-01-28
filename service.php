@@ -51,9 +51,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-2.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-2.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -75,7 +75,7 @@ require_once('header.php');
         <div class="service-item">
           <img class="img-fluid" src="img/CONSTRUCCIONES/2.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/2.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -95,9 +95,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/34.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/34.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -131,17 +131,17 @@ require_once('header.php');
               <p class="text-white mb-0">
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos
                 lorem sed diam stet diam sed stet.
-              </p>
-            </div> -->
+              </p> -->
+            <!-- </div> -->
           </div>
           <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.13s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -161,9 +161,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/31.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -183,9 +183,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.17s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/3.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/3.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -249,9 +249,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/35.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/35.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -271,9 +271,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/36.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/36.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -315,9 +315,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/service-3.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/service-3.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -337,9 +337,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/6.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/7.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
