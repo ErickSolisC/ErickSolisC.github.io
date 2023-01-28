@@ -614,9 +614,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/38.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/38.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
