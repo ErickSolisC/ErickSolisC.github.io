@@ -460,9 +460,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/37.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/41.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/37.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/42.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
@@ -629,7 +629,7 @@ require_once('header.php');
       </div> -->
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/43.jpg" alt="" />
           <div class="service-img">
             <img class="img-fluid" src="img/CONSTRUCCIONES/4.jpg" alt="" />
           </div>
