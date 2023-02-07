@@ -436,28 +436,7 @@ require_once('header.php');
           <!-- <a class="btn btn-light" href="">Read More</a> -->
         </div>
       </div>
-      <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.13s">
-        <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
-          <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/30.jpg" alt="" />
-          </div>
-          <div class="service-detail">
-            <div class="service-title">
-              <hr class="w-25" />
-              <h3 class="mb-0">Porch columns replace</h3>
-              <hr class="w-25" />
-            </div>
-            <!-- <div class="service-text">
-              <p class="text-white mb-0">
-                Erat ipsum justo amet duo et elitr dolor, est duo duo eos
-                lorem sed diam stet diam sed stet.
-              </p>
-            </div> -->
-          </div>
-          <!-- <a class="btn btn-light" href="">Read More</a> -->
-        </div>
-      </div>
+
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
         <div class="service-item">
           <img class="img-fluid" src="img/CONSTRUCCIONES/41.jpg" alt="" />
@@ -504,9 +483,9 @@ require_once('header.php');
       </div>
       <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
         <div class="service-item">
-          <img class="img-fluid" src="img/CONSTRUCCIONES/1.jpg" alt="" />
+          <img class="img-fluid" src="img/CONSTRUCCIONES/44.jpg" alt="" />
           <div class="service-img">
-            <img class="img-fluid" src="img/CONSTRUCCIONES/1.jpg" alt="" />
+            <img class="img-fluid" src="img/CONSTRUCCIONES/45.jpg" alt="" />
           </div>
           <div class="service-detail">
             <div class="service-title">
